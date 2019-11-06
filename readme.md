@@ -5,6 +5,6 @@ Sets up a simple environment to capture keyboard input and echo it to the screen
 ## Usage
 At the command prompt, type
 
-'''python3.6 sandbox.py'''
+```python3.6 sandbox.py```
 
 and follow the on-screen prompts.
