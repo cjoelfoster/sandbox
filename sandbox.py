@@ -4,8 +4,9 @@ import sys
 import subprocess
 import time
 
-print(sys.version_info)
-time.sleep(2.0)
+# check program is loading correctly
+# 	print(sys.version_info)
+# 	time.sleep(2.0)
 
 # Initialize Sandbox
 subprocess.call("clear")
